@@ -6,6 +6,9 @@ div {
 	height:  10px;
 	border:  1px solid #000;
 }
+span {
+	text-decoration: underline;
+}
 a:hover {
 	color: green;
 }
